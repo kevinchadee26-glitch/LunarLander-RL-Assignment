@@ -1,0 +1,10 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
